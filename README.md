@@ -1,3 +1,5 @@
-# Lucas0liveiraD0urado.github.io
-Meu portifolio Profissional.
-Abaixo há todos os códigos que fiz e subi aqui no meu repositório de portifólio.
+# MYMUSIC - Projeto
+##### MYMUSIC é um projeto pessoal de aprendizado.
+
+No **MYMUSIC** você pode adicionar suas bandas favoritas a uma lista, Lista-las, dar notas e ver as médias das bandas.
+
