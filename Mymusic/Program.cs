@@ -152,7 +152,7 @@ namespace PrimeiroProjeto
                 {
                     Console.Clear();
                     double media = BandasAdicionadas[aMediabanda].Average();
-                    Console.WriteLine($"A média da banda {aMediabanda} é {Math.Round(media)}");
+                    Console.WriteLine($"A média da banda {aMediabanda} é {media}");
                     Console.WriteLine("Aperte qualquer tecla para voltar ao menu principal");
                     Console.ReadKey();
                     Thread.Sleep(500);
