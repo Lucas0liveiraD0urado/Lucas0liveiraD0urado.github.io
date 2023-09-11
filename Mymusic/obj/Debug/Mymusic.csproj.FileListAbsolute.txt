@@ -1,0 +1,7 @@
+C:\Users\lcasd\source\repos\Mymusic\Mymusic\bin\Debug\Mymusic.exe.config
+C:\Users\lcasd\source\repos\Mymusic\Mymusic\bin\Debug\Mymusic.exe
+C:\Users\lcasd\source\repos\Mymusic\Mymusic\bin\Debug\Mymusic.pdb
+C:\Users\lcasd\source\repos\Mymusic\Mymusic\obj\Debug\Mymusic.csproj.AssemblyReference.cache
+C:\Users\lcasd\source\repos\Mymusic\Mymusic\obj\Debug\Mymusic.csproj.CoreCompileInputs.cache
+C:\Users\lcasd\source\repos\Mymusic\Mymusic\obj\Debug\Mymusic.exe
+C:\Users\lcasd\source\repos\Mymusic\Mymusic\obj\Debug\Mymusic.pdb
