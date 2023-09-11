@@ -6,14 +6,13 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace PrimeiroProjeto
+namespace MyMusic
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             string boasVindas = "Seja bem vindo ao MyMusic";
-            //List<string> listaBandas = new List<string> { "Slipknot".ToUpper(), "Metallica".ToUpper(), "Avenged Sevenfold".ToUpper() };
             Dictionary<string, List<int>> BandasAdicionadas = new Dictionary<string, List<int>>();
             void MensagemBoasVindas()
             {
